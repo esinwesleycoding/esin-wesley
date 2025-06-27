@@ -1,0 +1,30 @@
+ body {
+    background-color: red;
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "width": 100;
+ }
+
+.footer {
+    position:fixed;
+    bottom: 10px;
+    right: 0px;
+    width: 100%;
+    background-color: blue;
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings: "width": 100;
+}
+
+.footer-section {
+    background: #151414;
+    position: relative;
+}

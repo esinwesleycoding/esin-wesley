@@ -10,4 +10,5 @@ for i in range(0,7):
 if(sunny>rainy):
         print("Good weather")
 else:
+
         print("Bad weather")
